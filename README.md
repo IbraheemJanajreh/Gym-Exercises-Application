@@ -10,7 +10,7 @@ Create a .env file in then root and add the following
 REACT_APP_RAPID_API_KEY= 'X-RapidAPI-Key'
 ```
 
-### Install Dependencies (frontend & backend)
+### Install Dependencies
 ```
 npm install
 ```
