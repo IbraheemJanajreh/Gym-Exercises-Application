@@ -37,8 +37,7 @@ const ExerciseVideo = ({ exerciseVideos, name }) => {
                 <img
                   src={item.video.thumbnails[0].url}
                   alt={item.video.title}
-                  width="350px"
-                  height="300px"
+                  
                 />
                 <Box>
                   <Typography variant="h5" color="#000">
