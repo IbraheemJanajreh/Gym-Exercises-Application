@@ -19,3 +19,5 @@ npm install
 ```
 npm start
 ```
+
+Live [Demo](https://gym-exercises-application.vercel.app/) 
