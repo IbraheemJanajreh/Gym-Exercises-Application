@@ -1,4 +1,4 @@
-# Gym Exercises Application - React
+# Gym Exercises Application - ReactJS
 
 ### Get The API
 Subscribe [here](https://rapidapi.com/justin-WFnsXH_t6/api/exercisedb/) to get the  X-RapidAPI-Key
@@ -20,4 +20,4 @@ npm install
 npm start
 ```
 
-Live [Demo](https://gym-exercises-application.vercel.app/) 
+[Demo](https://gym-exercises-application.vercel.app/) 
